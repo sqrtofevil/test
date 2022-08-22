@@ -1,5 +1,7 @@
 package newfunc
+res int
 
 func newfunc (a int) int {
-	return a*5
+	res=a*5
+	return res
 }
