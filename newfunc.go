@@ -1,5 +1,5 @@
 package newfunc
-res int
+var res int
 
 func Newfunc (a int) int {
 	res=a*5
