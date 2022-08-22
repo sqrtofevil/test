@@ -1,5 +1,5 @@
-package main
+package newfunc
 
-func vote(a, b, int) int {
+func newfunc (a, b, int) int {
 	return a+b
 }
