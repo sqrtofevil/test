@@ -1,5 +1,5 @@
 package newfunc
 
-func newfunc (a, b, int) int {
-	return a+b
+func newfunc (a, int) int {
+	return a*5
 }
