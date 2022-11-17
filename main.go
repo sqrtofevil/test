@@ -9,6 +9,8 @@ func main() {
   var flag = true
   result=5
 
+  for flag {}
+
   fmt.Println("Загадайте число от 1 до 10")
   fmt.Println("Число которое вы загадали это ",result," Да-1/Нет-0")
   fmt.Scan(&answer)
